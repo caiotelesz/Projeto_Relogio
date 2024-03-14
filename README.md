@@ -1,7 +1,10 @@
-<h1>Relógio Analógico em HTML, CSS e JavaScript</h1> 
+<h1>Relógio Analógico</h1> 
 
 <h2>Descrição</h2>
 Este é um projeto simples de relógio implementado utilizando HTML, CSS e JavaScript. Ele exibe um relógio analógico com ponteiros de hora, minuto e segundo, proporcionando uma representação visual do horário atual.
+
+<h2>Linguagens Utilizadas</h2>
+HTML, CSS e JavaScript
 
 <h2>Recursos</h2>
 
